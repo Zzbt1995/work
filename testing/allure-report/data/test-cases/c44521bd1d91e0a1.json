@@ -1,0 +1,105 @@
+{
+  "uid": "c44521bd1d91e0a1",
+  "name": "test_case3[Joshua]",
+  "fullName": "test_fixture#test_case3",
+  "historyId": "de3dff2b08af09ddb933507a1e8d097f",
+  "time": {
+    "start": 1603030710572,
+    "stop": 1603030710572,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [
+    {
+      "name": "login",
+      "time": {
+        "start": 1603030710571,
+        "stop": 1603030710572,
+        "duration": 1
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "login::0",
+      "time": {
+        "start": 1603030710573,
+        "stop": 1603030710573,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "tag",
+      "value": "@pytest.mark.usefixtures('login')"
+    },
+    {
+      "name": "suite",
+      "value": "test_fixture"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NBI6863"
+    },
+    {
+      "name": "thread",
+      "value": "10228-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_fixture"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "login",
+      "value": "'Joshua'"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "@pytest.mark.usefixtures('login')"
+    ]
+  },
+  "source": "c44521bd1d91e0a1.json",
+  "parameterValues": [
+    "'Joshua'"
+  ]
+}

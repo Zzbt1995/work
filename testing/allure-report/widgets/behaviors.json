@@ -1,0 +1,17 @@
+{
+  "total": 8,
+  "items": [
+    {
+      "uid": "ee5eb3df34ef2c4d432b78c75f7f55b6",
+      "name": "计算器",
+      "statistic": {
+        "failed": 1,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 3,
+        "unknown": 0,
+        "total": 4
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "uid": "dbc719149bdc2cd7",
+  "name": "test_case1[Joshua]",
+  "fullName": "test_fixture#test_case1",
+  "historyId": "e62dcf5035b9f5552073837bb9b64eab",
+  "time": {
+    "start": 1603030710549,
+    "stop": 1603030710549,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [
+    {
+      "name": "login",
+      "time": {
+        "start": 1603030710548,
+        "stop": 1603030710548,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "login::0",
+      "time": {
+        "start": 1603030710549,
+        "stop": 1603030710549,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_fixture"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NBI6863"
+    },
+    {
+      "name": "thread",
+      "value": "10228-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_fixture"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "login",
+      "value": "'Joshua'"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "dbc719149bdc2cd7.json",
+  "parameterValues": [
+    "'Joshua'"
+  ]
+}

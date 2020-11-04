@@ -1,0 +1,29 @@
+{
+  "total": 2,
+  "items": [
+    {
+      "uid": "52185bd67611211c46f7c8b3a96aa0e3",
+      "name": "test_calc",
+      "statistic": {
+        "failed": 1,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 23,
+        "unknown": 0,
+        "total": 24
+      }
+    },
+    {
+      "uid": "f5008f55e3bd246ff068513459b58656",
+      "name": "test_fixture",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 7,
+        "unknown": 0,
+        "total": 7
+      }
+    }
+  ]
+}

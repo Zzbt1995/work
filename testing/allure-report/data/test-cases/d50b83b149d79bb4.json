@@ -1,0 +1,159 @@
+{
+  "uid": "d50b83b149d79bb4",
+  "name": "test_add[int+int]",
+  "fullName": "test_calc.TestCaculator#test_add",
+  "historyId": "0117ecd7587c99c46fda0ec90346c317",
+  "time": {
+    "start": 1603030710275,
+    "stop": 1603030710275,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [
+    {
+      "name": "get_calc",
+      "time": {
+        "start": 1603030710273,
+        "stop": 1603030710274,
+        "duration": 1
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "_Class__pytest_setup_class",
+      "time": {
+        "start": 1603030710274,
+        "stop": 1603030710274,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "get_calc::0",
+      "time": {
+        "start": 1603030710544,
+        "stop": 1603030710544,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "_Class__pytest_setup_class::0",
+      "time": {
+        "start": 1603030710541,
+        "stop": 1603030710542,
+        "duration": 1
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "story",
+      "value": "加法"
+    },
+    {
+      "name": "feature",
+      "value": "计算器"
+    },
+    {
+      "name": "tag",
+      "value": "run(order=1)"
+    },
+    {
+      "name": "suite",
+      "value": "test_calc"
+    },
+    {
+      "name": "subSuite",
+      "value": "TestCaculator"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NBI6863"
+    },
+    {
+      "name": "thread",
+      "value": "10228-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_calc"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "a",
+      "value": "1"
+    },
+    {
+      "name": "b",
+      "value": "2"
+    },
+    {
+      "name": "expect",
+      "value": "3"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": [
+      "run(order=1)"
+    ]
+  },
+  "source": "d50b83b149d79bb4.json",
+  "parameterValues": [
+    "1",
+    "2",
+    "3"
+  ]
+}

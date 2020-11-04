@@ -1,0 +1,99 @@
+{
+  "uid": "e36abd5569626fb1",
+  "name": "test_case1[Tom]",
+  "fullName": "test_fixture#test_case1",
+  "historyId": "d8a2b2b866e5dda7834eb59284d07220",
+  "time": {
+    "start": 1603030710554,
+    "stop": 1603030710554,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "beforeStages": [
+    {
+      "name": "login",
+      "time": {
+        "start": 1603030710553,
+        "stop": 1603030710553,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "login::0",
+      "time": {
+        "start": 1603030710554,
+        "stop": 1603030710554,
+        "duration": 0
+      },
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "shouldDisplayMessage": false,
+      "attachmentsCount": 0,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "suite",
+      "value": "test_fixture"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-NBI6863"
+    },
+    {
+      "name": "thread",
+      "value": "10228-MainThread"
+    },
+    {
+      "name": "framework",
+      "value": "pytest"
+    },
+    {
+      "name": "language",
+      "value": "cpython3"
+    },
+    {
+      "name": "package",
+      "value": "test_fixture"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "login",
+      "value": "'Tom'"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "e36abd5569626fb1.json",
+  "parameterValues": [
+    "'Tom'"
+  ]
+}
